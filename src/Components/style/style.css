@@ -1,0 +1,38 @@
+.form-inside{
+ 
+  position: absolute;
+  top:30%;
+
+ 
+}
+input{
+  border:0px;
+  width:500px;
+  box-shadow:1px 2px 2px rgb(255, 152, 55);
+
+}
+
+.flag{
+  position: absolute;
+  left:50%;
+  top:30%;
+  height:600px;
+  width:600px;
+  color:rgb(237, 158, 13);
+  box-shadow:1px 2px  2px rgb(7, 133, 18);
+  text-shadow: 2px 2px #f06c0d;
+}
+
+.nav{
+  background-color: rgb(12, 12, 159);
+  color:aliceblue;
+  padding:40px;
+}
+
+
+.tb2{
+
+  background-image: url('https://tse4.mm.bing.net/th?id=OIP.uT2-AsBtIxHVahPN4KQLSwHaE7&pid=Api&P=0');
+  height:250px;
+  width:300px;
+}
